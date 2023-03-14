@@ -33,7 +33,6 @@ int main (int argc, const char * argv[])
     else
     {
         pid_t pid, terminated;
-        pid_t child1, child2, child3, child4, child5, child6, child7, child8, child9, child10; 
         int i, status;
         for(i = 0; i < 10; i++)
         {
